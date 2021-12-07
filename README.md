@@ -9,3 +9,4 @@ https://adventofcode.com/2020
 * [day 4 - passport processing](src/passport_processing.erl)
 * [day 5 - binary boarding](src/binary_boarding.erl)
 * [day 6 - custom customs](src/custom_customs.erl)
+* [day 7 - handy haversacks](src/handy_haversacks.erl)
