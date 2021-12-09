@@ -10,3 +10,4 @@ https://adventofcode.com/2020
 * [day 5 - binary boarding](src/binary_boarding.erl)
 * [day 6 - custom customs](src/custom_customs.erl)
 * [day 7 - handy haversacks](src/handy_haversacks.erl)
+* [day 8 - handheld halting](src/handheld_halting.erl)
