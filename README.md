@@ -12,3 +12,4 @@ https://adventofcode.com/2020
 * [day 7 - handy haversacks](src/handy_haversacks.erl)
 * [day 8 - handheld halting](src/handheld_halting.erl)
 * [day 9 - encoding error](src/encoding_error.erl)
+* [day 10 - adapter array](src/adapter_array.erl)
